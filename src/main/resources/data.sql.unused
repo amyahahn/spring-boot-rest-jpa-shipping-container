@@ -1,0 +1,8 @@
+INSERT INTO shippingcontainers(container_owner_id, customer_id, status, status_timestamp) VALUES('1,1,"AVAILABLE", "");
+INSERT INTO shippingcontainers(container_owner_id, customer_id, status, status_timestamp) VALUES('1,1,"AVAILABLE", ""));
+INSERT INTO shippingcontainers(container_owner_id, customer_id, status, status_timestamp) VALUES('2,1,"AVAILABLE", "");
+INSERT INTO shippingcontainers(container_owner_id, customer_id, status, status_timestamp) VALUES('2,1,"AVAILABLE", "");
+INSERT INTO shippingcontainers(container_owner_id, customer_id, status, status_timestamp) VALUES('3,2,"AVAILABLE", "");
+INSERT INTO shippingcontainers(container_owner_id, customer_id, status, status_timestamp) VALUES('3,2,"AVAILABLE", "");
+INSERT INTO shippingcontainers(container_owner_id, customer_id, status, status_timestamp) VALUES('4,2,"AVAILABLE", "");
+INSERT INTO shippingcontainers(container_owner_id, customer_id, status, status_timestamp) VALUES('4,2,"AVAILABLE", "");

@@ -1,0 +1,7 @@
+CREATE TABLE shippingcontainers (
+  containerId INT AUTO_INCREMENT  PRIMARY KEY,
+  containerOwnerId BIGINT NOT NULL,
+  customerId BIGINT NOT NULL,
+  status VARCHAR(12),
+  statusTimestamp VARCHAR(30) DEFAULT NULL
+);
